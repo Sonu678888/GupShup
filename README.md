@@ -9,4 +9,11 @@ GupShup is an interactive and user-friendly application where you can connect wi
 - Enjoy real-time audio and text communication with minimal latency.
 - Enjoy real-time audio and text communication with minimal latency.
 
+## Demo
+
+
+
+https://github.com/user-attachments/assets/bb80d0fe-21ec-4c7e-a882-363f4a53080b
+
+
 
